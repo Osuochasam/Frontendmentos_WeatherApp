@@ -1,0 +1,39 @@
+#side-bar{
+    width: 20%;
+    min-height: 100vh;
+    background-color: #1F1F23;
+    color: #5F5F61;
+}
+.pic{
+    display: flex;
+    align-self: center;
+    gap: 10px;
+    padding: 10px 0;
+}
+.lucide{
+    width: 20px;
+    height: 20px;
+}
+.last{
+    margin-top: 300px;
+}
+#main-bar{
+    background-color: #e2e2dc;
+    width: 80%;
+    padding: 0 10px;
+}
+main{
+    display: flex;
+    padding: 15px 30px;
+}
+#head-fig{
+    display: flex;
+    justify-content: space-between;
+}
+.figures{
+    width: 270px;
+    height: 80px;
+    background-color: white;
+    padding: 20px 15px;
+    border-radius: 10px;
+}

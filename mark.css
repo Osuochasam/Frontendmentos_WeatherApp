@@ -1,0 +1,84 @@
+body{
+    background-color: #F1F7F5;
+
+}
+.app{
+    min-height: 100vh;
+
+}
+.side-bar{
+    width: 200px;
+    background-color: white;
+    padding: 10px 10px;
+}
+.mark-icon{
+   width: 25px;
+   height: 25px;
+   border: 1px transparent;
+   border-radius: 5px;
+   background-color: rgb(5, 73, 5);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+    
+}
+.mark-card{
+    padding: 0 10px;
+}
+.svg-1{
+    width: 15px;
+    height: 15px;
+    color: white;
+}
+.mark-card{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+.cut-1{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+    width: 180px;
+    height: 30px;
+    background-color: #E6F2EF;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+.cut-2{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 10px;
+}
+.side-icon{
+    width: 16px;
+    height: 16px;
+}
+.home-bar{
+    line-height: 5px;
+    margin: 10px 0;
+}
+.only{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #E6F2EF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thread{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 15px 0;
+    padding-left: 8px;
+
+}
+.thread-container{
+    margin: 10px 0;
+}
+
